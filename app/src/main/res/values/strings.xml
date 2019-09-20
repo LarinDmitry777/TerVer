@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Комбинаторика</string>
+    <string name="n">N</string>
+    <string name="k">K</string>
+    <string name="c">C</string>
+    <string name="p">P</string>
+    <string name="a">A</string>
+    <string name="repeats">Повторения</string>
+    <string name="pWithRepeatsNotWork">P с повторениями не работает :(</string>
+    <string name="fieldPEmpty">Заполните поле P</string>
+    <string name="fieldKEmpty">Заполните поле K</string>
+    <string name="wrongFormatN">У поля N неверный формат</string>
+    <string name="wrongFormatK">У поля K неверный формат</string>
+    <string name="exceptionKMoreThanN">K не может быть больше, чем N</string>
+    <string name="nMustBePositive">N должно быть положительное</string>
+    <string name="kMustBeNonNegative">K должно быть неотрицательное</string>
+</resources>
